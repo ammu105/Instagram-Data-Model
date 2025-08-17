@@ -1,4 +1,4 @@
-# 📸 Instagram Data Modaling (MySQL)
+# 📸 Instagram Data Modeling (MySQL)
 ## About the Project
 This project is a simple Instagram-style database built with MySQL.
 It covers the main features of Instagram like **users, posts, likes, comments, and followers**.
