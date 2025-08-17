@@ -208,7 +208,7 @@ This project helped me practice database design, query optimization, and analyti
 
 
 <p align="center">
-  Made with ❤️ by Amrutha  
+  Thank you for reviewing this project 💻❤️
 </p>
 
 
